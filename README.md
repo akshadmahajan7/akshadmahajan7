@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=1DF7D0&background=FFFFFF00&random=false&width=435&lines=I+am+Rushikesh+Powar;Cyber+Security+Analysis
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=3000&color=1DF7D0&background=FFFFFF00&random=false&width=435&lines=I+am+Akshad+Mahajan;CEHv13+Certified
 )](https://github.com/akshadmahajan7/akshadmahajan7)
 
 
