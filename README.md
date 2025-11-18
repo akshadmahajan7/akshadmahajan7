@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=1DF7D0&background=FFFFFF00&random=false&width=435&lines=I+am+Rushikesh+Powar;Cyber+Security+Analysis
+)](https://github.com/akshadmahajan7/akshadmahajan7)
+
+
 # 💫 About Me:
 🔭 I'm currently working on cyber security projects.<br>🤝 I'm looking for help with deep learning about python coding.<br>🌱 I'm currently learning CEH, VAPT.<br>💭 Ask me about cyber security, python, networking.<br>⚡ Fun fact I never work alone, I always work with my friends who have similar interest. 
 
